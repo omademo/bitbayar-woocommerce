@@ -1,5 +1,5 @@
 # Description
-Woocommerce Bitcoin Payment plugin using BitBayar service. (https://bitbayar.com)
+Woocommerce Bitcoin Payment plugin using BitBayar service. (https://bitbayar.com) -test
 
 # Precondition
 You must have a BitBayar merchant account to use this plugin. It's free and easy to [register](https://bitbayar.com/register).
